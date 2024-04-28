@@ -1,4 +1,5 @@
 INSTALLATION
+
 Install XAMPP or WAMPP.
 
 Open XAMPP Control panal and start [apache] and [mysql] .
@@ -30,6 +31,7 @@ first register and then login
 admin login details Email=admin@gmail.com or username = admin and Password=123456789.
 
 CONTRIBUTERS
+
 KAVYA P
 
 SCREEN SHOTS
