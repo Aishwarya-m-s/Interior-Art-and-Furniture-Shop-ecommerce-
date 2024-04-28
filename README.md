@@ -1,4 +1,4 @@
-
+INSTALLATION
 Install XAMPP or WAMPP.
 
 Open XAMPP Control panal and start [apache] and [mysql] .
@@ -8,7 +8,7 @@ OR follow gitbash commands
 
 i>cd C:\xampp\htdocs\
 
-ii>git clone 
+ii>git clone https://github.com/Aishwarya-m-s/Interior-Art-and-Furniture-Shop-ecommerce-.git 
 
 extract files in C:\xampp\htdocs.
 
@@ -20,5 +20,14 @@ give a database name as (furniture shop) hit on create button.
 
 after creating database name click on import.
 
-browse the file in directory[furniture-shopping-system-with-advanced-admin-page/database/furnitureshop.sql].
+browse the file in directory[furnitur-shop/database/furniture-shop.sql].
+after importing successfully.
+
+SCREEN SHOTS
+
+open any browser and type http://localhost/furniture-shop.
+
+first register and then login
+
+admin login details Email=admin@gmail.com or username = admin and Password=123456789.
 
